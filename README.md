@@ -1,2 +1,2 @@
 Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
-https://ibb.co/kGjRjJp
+![node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6](https://ibb.co/kGjRjJp)
